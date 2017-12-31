@@ -1,5 +1,5 @@
 # sweep servo
-based on arduino for time lapse
+based on arduino for time lapse 
 happy new year!
 # hardware
 - arduino x 1
